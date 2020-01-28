@@ -7,6 +7,7 @@ Removes the pre-registration agreement.
 [![Latest Stable Version](https://poser.pugx.org/david63/removeagreement/v/stable)](https://packagist.org/packages/david63/removeagreement)
 [![Latest Unstable Version](https://poser.pugx.org/david63/removeagreement/v/unstable)](https://packagist.org/packages/david63/removeagreement)
 [![Total Downloads](https://poser.pugx.org/david63/removeagreement/downloads)](https://packagist.org/packages/david63/removeagreement)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70121ab0eb79407da920cf37aa4f2962)](https://www.codacy.com/manual/david63/removeagreement?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=david63/removeagreement&amp;utm_campaign=Badge_Grade)
 
 ## Minimum Requirements
 * phpBB 3.2.0
