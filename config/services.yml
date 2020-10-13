@@ -1,9 +1,5 @@
 services:
     david63.removeagreement.listener:
         class: david63\removeagreement\event\listener
-        arguments:
-            - '@template'
-            - '%core.root_path%'
-            - '%core.php_ext%'						  
         tags:
             - { name: event.listener }
