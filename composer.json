@@ -13,7 +13,6 @@
 	"license": "GPL-2.0-only",
 	"authors": [{
             "name": "David Wood",
-			"username": "david63",
             "role": "Developer"
 		}],
 	"require": {
