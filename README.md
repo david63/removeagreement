@@ -2,11 +2,12 @@
 
 Removes the pre-registration agreement.
 
-[![Build Status](https://travis-ci.com/david63/removeagreement.svg?branch=master)](https://travis-ci.com/david63/removeagreement)
+[![Build Status](https://github.com/david63/removeagreement/workflows/Tests/badge.svg)](https://github.com/phpbb-extensions/david63/removeagreement)
 [![License](https://poser.pugx.org/david63/removeagreement/license)](https://packagist.org/packages/david63/removeagreement)
 [![Latest Stable Version](https://poser.pugx.org/david63/removeagreement/v/stable)](https://packagist.org/packages/david63/removeagreement)
 [![Latest Unstable Version](https://poser.pugx.org/david63/removeagreement/v/unstable)](https://packagist.org/packages/david63/removeagreement)
 [![Total Downloads](https://poser.pugx.org/david63/removeagreement/downloads)](https://packagist.org/packages/david63/removeagreement)
+[![codecov](https://codecov.io/gh/david63/removeagreement/branch/master/graph/badge.svg?token=D2500PgRex)](https://codecov.io/gh/david63/removeagreement)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/70121ab0eb79407da920cf37aa4f2962)](https://www.codacy.com/manual/david63/removeagreement?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=david63/removeagreement&amp;utm_campaign=Badge_Grade)
 
 [![Compatible](https://img.shields.io/badge/compatible-phpBB:3.2.x-blue.svg)](https://shields.io/)
